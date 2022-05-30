@@ -1,0 +1,1 @@
+Навыки: git, terminal, javascript, functional testing.
